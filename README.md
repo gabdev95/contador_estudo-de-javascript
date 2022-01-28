@@ -1,2 +1,7 @@
-# contador_estudo-de-javascript
-Desafio de projeto sobre Git/GitHub para a Digital Innovation One.
+# Contador
+
+Desafio de projeto desenvolvido para estudar Git/GitHub pela Digital Innovation One.
+
+### Demo
+
+<img src = "img/demo.png">
